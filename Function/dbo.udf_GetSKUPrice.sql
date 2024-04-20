@@ -10,3 +10,4 @@ begin
 	where b.ID_SKU = @ID_SKU
 	)
 end
+
